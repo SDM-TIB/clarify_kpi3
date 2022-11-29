@@ -1,6 +1,6 @@
 # clarify_kpi3
 
-To reproduce the result of Normalized Famililar Cancer Frequency and Famililar Cancer Connectedness
+To reproduce the result of **Normalized Famililar Cancer Frequency** and **Famililar Cancer Connectedness**
 
 1. Data table preparation: Using the queries of each data table (csv file) in the [`sql.ipynb`](https://github.com/SDM-TIB/clarify_kpi3/blob/main/sql.ipynb) file to query all 3 csv files from the [mysql endpoint](https://labs.tib.eu/sdm/mysql/db_structure.php?server=1&db=SLCG_UPM_v5.0)
 
