@@ -2,7 +2,7 @@
 
 To reproduce the result of Normalized Famililar Cancer Frequency and Famililar Cancer Connectedness
 
-1. Data table preparation: Using the the queries in sql.ipynb file to do query over https://labs.tib.eu/sdm/mysql/db_structure.php?server=1&db=SLCG_UPM_v5.0
+1. Data table preparation: Using the the queries in the [`sql.ipynb`](https://github.com/SDM-TIB/clarify_kpi3/blob/main/sql.ipynb) file to do query over https://labs.tib.eu/sdm/mysql/db_structure.php?server=1&db=SLCG_UPM_v5.0
 
 2. Analysis: Using the python code from kpi3_jaccard.ipynb to 
    a. preprocess csv data files
