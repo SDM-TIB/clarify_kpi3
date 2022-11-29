@@ -10,4 +10,4 @@ To reproduce the result of Normalized Famililar Cancer Frequency and Famililar C
    c. analysis of Famililar Cancer Connectedness by using `jaccard_x_is_cancer()` function
    d. change the `age_threshold` then run the code from code block `Generate all box plot` for box plots of different age threshold
    
-3. The final box plots is available from 👉 this [Google Drive](https://drive.google.com/drive/folders/1U3JEYoJuvgvvOfuGKktOQ3bhSzU_PKDw) or 👉 this [Notion Page](https://www.notion.so/Comparing-age-threshold-55-60-65-a930e78e3f2c4be59b5a506c549f810f)
+3. All box plots of this analysis are available from 👉 this [Google Drive](https://drive.google.com/drive/folders/1U3JEYoJuvgvvOfuGKktOQ3bhSzU_PKDw) or 👉 this [Notion Page](https://www.notion.so/Comparing-age-threshold-55-60-65-a930e78e3f2c4be59b5a506c549f810f)
