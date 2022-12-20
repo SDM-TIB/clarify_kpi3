@@ -1,0 +1,64 @@
+Patient_id,Family,FamilyCancer,family_cancer,family_cancer_num
+203512,Grandmother,Lung,GrandmotherLung,1
+203552,Sister,Esophagogastric,SisterEsophagogastric,1
+205005,Grandfather,Esophagogastric,GrandfatherEsophagogastric,1
+210473,Female_Cousin,Leukemia,Female_CousinLeukemia,3
+210473,Female_Cousin,Breast,Female_CousinBreast,3
+210473,Aunt,Breast,AuntBreast,3
+212420,Aunt,Breast,AuntBreast,1
+415185,Grandfather,Leukemia,GrandfatherLeukemia,3
+415185,Aunt,Breast,AuntBreast,3
+415185,Uncle,Lung,UncleLung,3
+507356,Female_Cousin,Breast,Female_CousinBreast,7
+507356,Father,Colorrectal,FatherColorrectal,7
+507356,Aunt,Colorrectal,AuntColorrectal,7
+507356,Mother,Gall bladder,MotherGall bladder,7
+507356,Grandfather,Central nervous system,GrandfatherCentral nervous system,7
+507356,Sister,Breast,SisterBreast,7
+507356,Sister,Lymphoma,SisterLymphoma,7
+508048,Grandmother,Unknown origin carcinoma,GrandmotherUnknown origin carcinoma,4
+508048,Uncle,Lung,UncleLung,4
+508048,Father,Lung,FatherLung,4
+508048,Mother,Breast,MotherBreast,4
+514157,Male_Cousin,Central nervous system,Male_CousinCentral nervous system,4
+514157,Male_Cousin,Esophagogastric,Male_CousinEsophagogastric,4
+514157,Aunt,Breast,AuntBreast,4
+514157,Aunt,Pancreatic,AuntPancreatic,4
+709342,Father,Skin no melanoma,FatherSkin no melanoma,4
+709342,Grandmother,Uterus/cervical,GrandmotherUterus/cervical,4
+709342,Aunt,Colorrectal,AuntColorrectal,4
+709342,Uncle,Colorrectal,UncleColorrectal,4
+709925,Female_Cousin,Colorrectal,Female_CousinColorrectal,3
+709925,Father,Skin no melanoma,FatherSkin no melanoma,3
+709925,Grandmother,Uterus/cervical,GrandmotherUterus/cervical,3
+1300885,Sister,Breast,SisterBreast,5
+1300885,Grandmother,Breast,GrandmotherBreast,5
+1300885,Uncle,Pancreatic,UnclePancreatic,5
+1300885,Uncle,Prostate,UncleProstate,5
+1300885,Mother,Uterus/cervical,MotherUterus/cervical,5
+1306378,Father,Lung,FatherLung,2
+1306378,Sister,Uterus/cervical,SisterUterus/cervical,2
+1501042,Uncle,Lung,UncleLung,2
+1501042,Father,Lung,FatherLung,2
+1501052,Father,Lung,FatherLung,1
+1503660,Uncle,Colorrectal,UncleColorrectal,1
+1505193,Grandmother,Lung,GrandmotherLung,1
+1508114,Mother,Uterus/cervical,MotherUterus/cervical,2
+1508114,Father,Colorrectal,FatherColorrectal,2
+1508901,Mother,Lung,MotherLung,1
+1509349,Aunt,Uterus/cervical,AuntUterus/cervical,2
+1509349,Aunt,Breast,AuntBreast,2
+2810360,Uncle,Colorrectal,UncleColorrectal,1
+3408711,Father,Colorrectal,FatherColorrectal,2
+3408711,Uncle,Esophagogastric,UncleEsophagogastric,2
+3812245,Mother,Uterus/cervical,MotherUterus/cervical,1
+5103865,Grandmother,Esophagogastric,GrandmotherEsophagogastric,2
+5103865,Uncle,Lung,UncleLung,2
+5106485,Aunt,Breast,AuntBreast,4
+5106485,Female_Cousin,Breast,Female_CousinBreast,4
+5106485,Uncle,Lung,UncleLung,4
+5106485,Sister,Ovarian,SisterOvarian,4
+9705414,Aunt,Breast,AuntBreast,2
+9705414,Father,Colorrectal,FatherColorrectal,2
+15700484,Mother,Esophagogastric,MotherEsophagogastric,2
+15700484,Father,Melanoma,FatherMelanoma,2
